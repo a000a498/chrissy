@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Enable tweak. This must be on for tweak to work.</key>
+	<string>啟用插件. 這必須開啟才能運作</string>
+	<key>Enabled</key>
+	<string>啟用</string>
+	<key>Enable rotation on lockscreen. Turn off if you only want tweak for homescreen.</key>
+	<string>啟用鎖定畫面轉向. 如果只想在主畫面轉向請關閉.</string>
+	<key>Enable on lockscreen</key>
+	<string>啟用鎖定畫面轉向</string>
+	<key>Rotates both dock and icons, and stacks the icons in columns. Looks great with BetterFiveIconDock.</key>
+    <string>Dock和Icon轉向, 並在列中堆疊圖標. BetterFiveIconDock使用上更美觀.</string>
+	<key>Stacked rotation</key>
+	<string>堆疊轉向</string>
+</dict>
+</plist>
